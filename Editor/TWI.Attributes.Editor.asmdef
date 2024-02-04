@@ -1,0 +1,18 @@
+{
+    "name": "TWI.Attributes.Editor",
+    "rootNamespace": "TWIEditor.Attributes",
+    "references": [
+        "GUID:971fe7baef7e2914f9cecf99f4c95faa"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
